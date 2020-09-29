@@ -12,6 +12,10 @@
             {
                 return "Bonjour le monde";
             }
+            else if (lang.Equals("da"))
+            {
+                return "Hej Verden";
+            }
             else
             {
                 return "Hello World";
